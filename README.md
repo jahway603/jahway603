@@ -5,7 +5,7 @@
 ### Contact Info
 
 - [My Mastodon](https://social.linux.pizza/@jahway603)
-- My Matrix: jahway603:privacytools.io
+- My Matrix is @jahway603:privacytools.io
 
 <!--
 **jahway603/jahway603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
