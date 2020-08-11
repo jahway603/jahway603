@@ -2,6 +2,11 @@
 
 - 🔭 I’m currently working on [SilentDragon Android](https://github.com/jahway603/SilentDragonAndroid)
 
+### Contact Info
+
+- [My Mastodon](https://social.linux.pizza/@jahway603)
+- My Matrix: jahway603:privacytools.io
+
 <!--
 **jahway603/jahway603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
