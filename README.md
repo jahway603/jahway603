@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [SilentDragon Android](https://github.com/jahway603/SilentDragonAndroid)
+- 🔭 I’m currently learning
 
 ### Contact Info
 
