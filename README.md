@@ -5,7 +5,6 @@ I'm here to have some fun and contribute on projects I support. I encourage you 
 ### Contact Info
 
 - [My Mastodon](https://social.linux.pizza/@jahway603)
-- [My Matrix](https://matrix.to/#/@jahway603:meowchat.xyz)
 
 [comment]: <> (TODO - look at adding the snake animation as seen on https://github.com/jessicaetiene)
 <!-- <div>
